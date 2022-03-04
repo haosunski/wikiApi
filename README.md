@@ -1,3 +1,3 @@
 # wikiApi
 
-REST api for article list and individual article
+REST api to retrieve articles info
